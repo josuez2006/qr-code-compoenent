@@ -23,7 +23,7 @@ body {
     display: grid;
     place-content: center;
     min-height: 100vh;
-    
+    text-align: center;
 }
 
 .card {
@@ -48,11 +48,6 @@ body {
     margin-bottom: 1em;
 }
 
-.card__title, 
-.card__paragraph {
-    text-align: center;
-}
-
 .card__title {
     font-size: var(--fs-title);
     margin-bottom: 0.8em;
@@ -69,7 +64,6 @@ body {
 
 .attribution {
     width: 100%;
-    text-align: center;
     padding: .5em;
     position: absolute;
     top: 0;
