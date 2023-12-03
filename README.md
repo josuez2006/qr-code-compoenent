@@ -10,7 +10,7 @@ It was a simple project, but I'm convinced that starting with the fundamentals a
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [See the live site here](https://josuez2006.github.io/qr-code-compoenent/)
 
 ## My process
 
